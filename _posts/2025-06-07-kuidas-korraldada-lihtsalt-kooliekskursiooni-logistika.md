@@ -4,6 +4,7 @@ title: Kuidas Korraldada Lihtsalt Kooliekskursiooni Logistika
 subtitle: Lõpetage lõputud meilid- korraldage sõidujagamine ühel lingil
 tags: [ürituste korraldamine, sõidujagamine]
 author: ijoin.app
+language: et
 ---
 
 # Unustage E-posti Jada- Optimeerige Sõidujagamine Kooliekskursioonideks

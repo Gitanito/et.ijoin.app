@@ -4,6 +4,7 @@ title: Kontserdieelne Pidu- Kuidas Koguda Osalejad Ilma Telefonikõnedeta
 subtitle: Maksimeeri oma ürituse osalusmäär lihtsa lingiga- unusta registreerimine
 tags: [ürituse korraldamine, RSVP tööriist]
 author: ijoin.app
+language: et
 ---
 
 # Kontserdieelne Pidu- Kuidas Koguda Osalejad Ilma Telefonikõnedeta

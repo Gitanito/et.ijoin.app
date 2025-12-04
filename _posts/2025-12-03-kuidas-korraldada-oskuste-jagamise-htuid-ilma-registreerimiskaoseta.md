@@ -4,6 +4,7 @@ title: Kuidas Korraldada Oskuste Jagamise Õhtuid Ilma Registreerimiskaoseta
 subtitle: Maksimeeri Osalus- ja Reageerimismäärad Lihtsa Sündmuste Korraldamise Tööriistaga
 tags: [sündmuste korraldamine, oskuste jagamine]
 author: ijoin.app
+language: et
 ---
 
 # Ühiskondlike Oskuste Jagamise Sündmuste Korraldamine- Maksimaalne Osalus, Minimaalne Vaev

@@ -4,6 +4,7 @@ title: Spordiürituste Korraldamine - Kuidas Vältida Segadust
 subtitle: Maksimeeri Osalejate Arvu ja Jaga Muudatusi Koheselt
 tags: [ürituse korraldamine, spordiüritus]
 author: ijoin.app
+language: et
 ---
 
 # Ühine Spordiõhtu – Kogemuse Täiustamine Stressivaba Korraldusega

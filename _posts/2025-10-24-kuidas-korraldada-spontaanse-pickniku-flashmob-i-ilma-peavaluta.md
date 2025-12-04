@@ -4,6 +4,7 @@ title: Kuidas Korraldada Spontaanse Pickniku-Flashmob-i Ilma Peavaluta
 subtitle: Maksimeeri Osalus- ja Reageerimisprotsent Lihtsa Kutse Lingiga
 tags: [sündmuse korraldamine, registreerimine]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas Korraldada Spontaanse Pickniku-Flashmob-i Ilma Peavaluta

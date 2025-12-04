@@ -4,6 +4,7 @@ title: Kuidas Korraldada Spontaanne Grilliõhtu Ilma Segaduseta
 subtitle: Maksimaalne Osavõtt ja Null Registreerimist - Sinu Salarelv Kiireteks Üritusteks
 tags: [ürituse korraldamine, grillipidu]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas Korraldada Spontaanne Grilliõhtu Ilma Segaduseta

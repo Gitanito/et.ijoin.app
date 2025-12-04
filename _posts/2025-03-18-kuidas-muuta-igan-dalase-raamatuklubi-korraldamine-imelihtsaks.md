@@ -4,6 +4,7 @@ title: Kuidas muuta iganädalase raamatuklubi korraldamine imelihtsaks
 subtitle: Unustage registreerimine ja keerulised tabelid - maksimeerige osavõtt
 tags: [ürituste_korraldamine, raamatuklubi]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas muuta iganädalase raamatuklubi korraldamine imelihtsaks

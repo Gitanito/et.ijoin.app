@@ -4,6 +4,7 @@ title: Laste Sünnipäevad Stressivabalt - Kuidas Saada Kohe Teada Külaliste Ar
 subtitle: Unustage registreerimine ja keerulised kutsed - maksimeerige osalejate arv lihtsalt
 tags: [ürituste-korraldus, sünnipäevapidu]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas Korraldada Lapse Sünnipäevapidu Nii, Et Teate Alati Täpset Külaliste Arvu

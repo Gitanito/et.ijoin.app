@@ -4,6 +4,7 @@ title: Kuidas Koguda Kiiresti Tagasisidet Uutele Disainiideedele
 subtitle: Maksimeeri Osalejate Arv- Lihtne ja Tasuta Sündmuste Planeerimine
 tags: [sündmuste planeerimine, tagasiside kogumine]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas Koguda Kiiresti Tagasisidet Uutele Disainiideedele [ijoin.app](https://ijoin.app/index-et.html) abil

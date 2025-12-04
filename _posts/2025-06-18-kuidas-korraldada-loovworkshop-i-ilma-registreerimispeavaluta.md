@@ -4,6 +4,7 @@ title: Kuidas korraldada loovworkshop-i ilma registreerimispeavaluta
 subtitle: Maksimeeri osalejate arv lihtsa lingi abil- Ükski rakendus pole vajalik!
 tags: [ürituste korraldamine, workshop]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas korraldada loovworkshop-i ilma registreerimispeavaluta

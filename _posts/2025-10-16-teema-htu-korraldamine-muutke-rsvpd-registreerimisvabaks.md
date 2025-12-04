@@ -4,6 +4,7 @@ title: Teemaõhtu Korraldamine Muutke RSVPd Registreerimisvabaks
 subtitle: Kuidas koguda külaliste kinnitusi ilma tüütu sisselogimise ja äppideta
 tags: [sündmuse korraldamine, ürituse rsvp]
 author: ijoin.app
+language: et
 ---
 
 # Teemaõhtu Korraldamine- Maksimeerige Osalemine Registreerimisvaba Ankeediga

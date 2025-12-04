@@ -4,6 +4,7 @@ title: Unusta paberimajandus - Lihtne aegade broneerimine koolis
 subtitle: Kuidas ijoin.app muudab lapsevanemate ja õpetajate kohtumiste korraldamise imelihtsaks
 tags: [koolikorraldus, sündmuste_haldus]
 author: ijoin.app
+language: et
 ---
 
 # Lõpuks ometi - Vanemate vastuvõtuajad ilma stressi ja segaduseta

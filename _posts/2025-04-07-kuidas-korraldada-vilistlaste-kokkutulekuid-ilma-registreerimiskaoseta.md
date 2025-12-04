@@ -4,6 +4,7 @@ title: Kuidas Korraldada Vilistlaste Kokkutulekuid Ilma Registreerimiskaoseta
 subtitle: Maksimeeri Osavõtt- Unustage E-posti Ahelkirjad ja Keerulised Platvormid
 tags: [ürituste-korraldus, vilistlased]
 author: ijoin.app
+language: et
 ---
 
 # Vilistlaste Kohtumised- Kuidas Saavutada 100% Osalusmäär Lihtsa Lingiga

@@ -4,6 +4,7 @@ title: Naabruskonna Pidu- Kuidas Korraldada See Ilma Stressita
 subtitle: Maksimeeri Osalus- ja Panustamissoov Ühe Lihtsa Lingiga
 tags: [ürituste korraldamine, naabruskonna pidu]
 author: ijoin.app
+language: et
 ---
 
 # Naabruskonna Üritus- Kuidas Muuta Korraldamine Nauditavaks

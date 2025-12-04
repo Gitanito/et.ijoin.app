@@ -4,6 +4,7 @@ title: Kiire Õhtusöök- või Baariõhtu- Kuidas Saada Koheselt Teada Kes Tuleb
 subtitle: Unustage WhatsAppi segadus - Korraldage Spontaansed Kogunemised Vaevata
 tags: [sündmuste korraldamine, spontaanne üritus]
 author: ijoin.app
+language: et
 ---
 
 # Spontaanse Sõprade Kogunemise Korraldamine- Maksimaalne Osalus Minimaalse Vaevaga

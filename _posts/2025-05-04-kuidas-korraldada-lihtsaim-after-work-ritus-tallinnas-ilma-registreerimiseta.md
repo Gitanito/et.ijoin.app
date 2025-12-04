@@ -4,6 +4,7 @@ title: Kuidas korraldada lihtsaim After-Work üritus Tallinnas- ilma registreeri
 subtitle: Saage teada, kes tuleb teie järgmisele üritusele - maksimaalse osavõtuga ja null stressiga
 tags: [ürituse korraldamine, after-work]
 author: ijoin.app
+language: et
 ---
 
 # Unustage ebamugavad vestlusahelad- After-Work ürituste korraldamine on nüüd imelihtne

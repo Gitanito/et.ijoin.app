@@ -4,6 +4,7 @@ title: Kuidas luua Pop-up Õhtusöök-elamusi ilma registreerimise peavaluta
 subtitle: Maksimeeri külaliste osalus - unusta keerukad sisselogimised ja pikk planeerimine
 tags: [ürituste-korraldus, külaliste-haldus]
 author: ijoin.app
+language: et
 ---
 # Planeeri eksklusiivne Pop-up õhtusöök – külalised registreerivad end ühe klikiga
 

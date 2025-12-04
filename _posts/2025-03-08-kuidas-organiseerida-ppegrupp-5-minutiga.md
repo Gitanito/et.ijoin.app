@@ -4,6 +4,7 @@ title: Kuidas organiseerida õppegrupp 5 minutiga
 subtitle: Maksimeeri osalejate arv ja väldi segadust viimasel hetkel
 tags: [õppegrupp, ürituskorraldus]
 author: ijoin.app
+language: et
 ---
 
 # Ülikooli Õppegruppide Korraldamine - Jäta Hüvasti E-posti Segadusega

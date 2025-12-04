@@ -4,6 +4,7 @@ title: Kuidas Korraldada Naabruskonna Üritusi Ilma Tüütute Registreerimisteta
 subtitle: Maksimeeri Naabrite Osalemine Spontaanseks Abi Andmiseks
 tags: [ürituste korraldamine, naabruskonna abi]
 author: ijoin.app
+language: et
 ---
 
 # Lõpeta E-kirjade Jada – Korralda Naabruskonna Abi Lihtsalt ja Kiirelt

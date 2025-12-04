@@ -4,6 +4,7 @@ title: Treeningule Tulekute Haldamine Ilma Segaduseta
 subtitle: Kuidas spordikoordinaatorid saavad RSVP-d kätte ühe lihtsa lingiga
 tags: [spordimeeskond, ürituste korraldamine]
 author: ijoin.app
+language: et
 ---
 
 # Treeningule Tulekute Haldamine Ilma Segaduseta

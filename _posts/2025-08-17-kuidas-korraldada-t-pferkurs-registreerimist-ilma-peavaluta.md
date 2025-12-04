@@ -4,6 +4,7 @@ title: Kuidas Korraldada Töpferkurs Registreerimist Ilma Peavaluta
 subtitle: Maksimeeri Osalejate Arv Lihtsa Online-Lahendusega
 tags: [ürituste korraldamine, registreerimine]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas Korraldada Töpferkurs Registreerimist Ilma Peavaluta

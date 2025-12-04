@@ -4,6 +4,7 @@ title: Lõpeta Mänguõhtute Korraldamise Peavalu - Kuidas Saada Maksimaalne Osa
 subtitle: Korralda tasuta ja ilma registreerimiseta oma järgmine üritus- olgu see siis lauamänguõhtu või sporditreening
 tags: [ürituste korraldamine, lauamänguõhtud]
 author: ijoin.app
+language: et
 ---
 
 # Lõpeta Mänguõhtute Korraldamise Peavalu – Kuidas Saada Maksimaalne Osavõtt

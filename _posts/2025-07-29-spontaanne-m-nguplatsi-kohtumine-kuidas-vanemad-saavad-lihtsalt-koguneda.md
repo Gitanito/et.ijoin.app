@@ -4,6 +4,7 @@ title: Spontaanne Mänguplatsi Kohtumine- Kuidas Vanemad Saavad Lihtsalt Koguned
 subtitle: Lõpetage kümnete sõnumite saatmine- planeerige rühmakohtumised ühe lingiga
 tags: [ürituste korraldamine, vanemlus]
 author: ijoin.app
+language: et
 ---
 # Spontaanne Mänguplatsi Kohtumine – Kuidas Vanemad Saavad Lihtsalt Koguneda
 

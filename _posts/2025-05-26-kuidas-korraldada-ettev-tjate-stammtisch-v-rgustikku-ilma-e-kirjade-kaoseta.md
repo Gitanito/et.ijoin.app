@@ -5,6 +5,7 @@ title: Kuidas Korraldada Ettevõtjate Stammtisch-Võrgustikku Ilma E-kirjade Kao
 subtitle: Maksimeeri Osalusprotsent- Unusta Registreerimised ja E-posti Järelkontroll
 tags: [ürituste-korraldus, võrgustik]
 author: ijoin.app
+language: et
 ---
 # Kuidas Korraldada Ettevõtjate Stammtisch-Võrgustikku Ilma E-kirjade Kaoseta
 

@@ -4,6 +4,7 @@ title: Kuidas Koolilaada Korraldamine Muuta Imelihtsaks
 subtitle: Unusta Excel ja Käsitsi Koordineerimine- Kaasamine on Lihtne
 tags: [koolilaat, ürituste korraldamine]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas Koolilaada Korraldamine Muuta Imelihtsaks

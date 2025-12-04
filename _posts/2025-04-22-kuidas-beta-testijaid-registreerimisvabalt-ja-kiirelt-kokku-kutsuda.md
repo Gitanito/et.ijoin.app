@@ -4,6 +4,7 @@ title: Kuidas Beta-testijaid Registreerimisvabalt ja Kiirelt Kokku Kutsuda
 subtitle: Maksimeeri Osalemisprotsent- Unusta E-posti Ahelad ja Logimised
 tags: [beta-testimine, ürituste-korraldus]
 author: ijoin.app
+language: et
 ---
 
 # Beta-testijate Kaasamine- Maksimaalne Osalus Ilma Tüütu Registreerimiseta

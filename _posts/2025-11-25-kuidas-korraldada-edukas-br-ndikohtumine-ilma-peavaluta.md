@@ -4,6 +4,7 @@ title: Kuidas Korraldada Edukas Brändikohtumine Ilma Peavaluta
 subtitle: Saavutage maksimaalne osalejate arv lihtsa ürituse registreerimisega
 tags: [ürituste korraldamine, brändikohtumine]
 author: ijoin.app
+language: et
 ---
 
 # Lõpetage Registreerimiskaosega- Korraldage Brändikohtumisi Lihtsalt

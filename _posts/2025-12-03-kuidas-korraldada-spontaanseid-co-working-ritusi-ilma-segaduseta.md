@@ -4,6 +4,7 @@ title: Kuidas korraldada spontaanseid Co-Working üritusi ilma segaduseta
 subtitle: Maksimeeri osalejate arv ja saa reaalajas teavitused lihtsa veebilingiga
 tags: [Co-Working, Ürituste Korraldamine]
 author: ijoin.app
+language: et
 ---
 
 # Kuidas korraldada spontaanseid Co-Working üritusi ilma segaduseta

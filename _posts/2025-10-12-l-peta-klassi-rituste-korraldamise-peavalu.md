@@ -4,6 +4,7 @@ title: Lõpeta Klassiürituste Korraldamise Peavalu
 subtitle: Kuidas ijoin.app muudab lapsevanemate koosolekud ja koolipeod imelihtsaks
 tags: [ürituste-korraldus, lapsevanemad]
 author: ijoin.app
+language: et
 ---
 
 # Lõpeta Klassiürituste Korraldamise Peavalu

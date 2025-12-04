@@ -4,6 +4,7 @@ title: Kuidas Korraldada Matka- või Rattasõiduüritus ilma Peavaluta
 subtitle: Maksimeeri Osalejate Arv- lihtne viis ürituste korraldamiseks
 tags: [ürituste korraldamine, matkagrupp]
 author: ijoin.app
+language: et
 ---
 
 # Lõpeta Külaliste Jälitamine- Korralda Matkad ja Rattasõidud Nutikalt
